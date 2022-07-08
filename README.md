@@ -11,3 +11,5 @@ _Not implemented._
 ## License
 
 See [LICENSE](LICENSE).
+
+Inspired by Discord bots such as [Roomba-Discord-Bot](https://github.com/AlexArtaud-Dev/Roomba-Discord-Bot).
